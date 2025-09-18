@@ -7,7 +7,3 @@ Whether you're a space enthusiast, educator, or developer interested in space si
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-- **Abu Bakr Zamrez**
